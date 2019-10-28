@@ -1,0 +1,16 @@
+{
+  "name": "imbox-node-logger",
+  "version": "1.0.0",
+  "description": "Convenience wrapper around bunyan and bunyan-emailstream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ImBox Sweden AB",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-emailstream": "luddd3/bunyan-emailstream#35369db"
+  }
+}
